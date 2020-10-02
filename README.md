@@ -1,2 +1,2 @@
 # javascript
-java script is a programming language.
+java script is best programming language.
